@@ -4,4 +4,3 @@
 -PCA기법을 통한 차원 축소    
 -Standard Scaler을 활용한 이상치 전처리  
 -sklearn으로 모델링  
--
